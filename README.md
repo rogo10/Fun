@@ -9,7 +9,5 @@ NNFinalDraft.ipynb is a notebook that is essentially a MLP Classifier done by ha
 
 passwordcracker.py is a simple password cracking function that returns the time it took to crack password as well as the number of guesses. Can be used to test safety of passwords.
 
-"Password Cracker with Gradio Interface".ipynb is the same code as passwordcracker.py except the interfacing happens in a Gradio interface.
-
 mnist_gradio.py is a code that creates an interactive sketchpad to predict the number drawn (digits 0-9 as the model was trained using the MNIST dataset).
  
